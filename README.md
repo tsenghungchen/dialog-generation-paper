@@ -13,7 +13,7 @@ Any suggestions and pull requests are welcome.
 ## All Papers
 * [OpenSubtitles2016: Extracting Large Parallel Corpora from Movie and TV Subtitles](http://stp.lingfil.uu.se/~joerg/paper/opensubs2016.pdf), Pierre Lison et al., 2016 (3.36 million subtitles)
 * [Building End-To-End Dialogue Systems
-Using Generative Hierarchical Neural Network Models](https://arxiv.org/pdf/1507.04808.pdf), Iulian V. Serban et al., *arXiv*, 2016. (500 movies)
+Using Generative Hierarchical Neural Network Models](https://arxiv.org/pdf/1507.04808.pdf), Iulian V. Serban et al., *AAAI*, 2015. (500 movies)
 * [Deep Reinforcement Learning for Dialogue Generation](https://arxiv.org/pdf/1606.01541.pdf), Jiwei Li et al., *arXiv*, 2016.
 * [Dialog-based Language Learning](https://arxiv.org/pdf/1604.06045v4.pdf), Jason Weston, Facebook AI Research, *arXiv*, 2016.
 * [A Hierarchical Latent Variable Encoder-Decoder
@@ -28,7 +28,7 @@ Model for Generating Dialogues](https://arxiv.org/pdf/1605.06069v3.pdf), Iulian 
 ## Dataset
  * [OpenSubtitles2016: Extracting Large Parallel Corpora from Movie and TV Subtitles](http://stp.lingfil.uu.se/~joerg/paper/opensubs2016.pdf), Pierre Lison et al. (3.36 million subtitles)
  * [Building End-To-End Dialogue Systems
-Using Generative Hierarchical Neural Network Models](https://arxiv.org/pdf/1507.04808.pdf), Iulian V. Serban et al., *arXiv*, 2016. (500 movies)
+Using Generative Hierarchical Neural Network Models](https://arxiv.org/pdf/1507.04808.pdf), Iulian V. Serban et al., *AAAI*, 2015. (500 movies)
  * [Conversational Contextual Cues: The Case of Personalization and History for Response Ranking](https://arxiv.org/pdf/1606.00372v1.pdf), Rami Al-Rfou et al., *arXiv*, 2016. (Reddit comments)
 
 ## Reinforcement Learning
