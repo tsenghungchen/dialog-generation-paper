@@ -33,7 +33,7 @@ Using Generative Hierarchical Neural Network Models](https://arxiv.org/pdf/1507.
 
 ## Reinforcement Learning
  * [Deep Reinforcement Learning for Dialogue Generation](https://arxiv.org/pdf/1606.01541.pdf), Jiwei Li et al., *arXiv*, 2016.
-* [End-to-end LSTM-based dialog control optimized with supervised and reinforcement learning](https://arxiv.org/pdf/1606.01269v1.pdf), Jason D. Williams and Geoffrey Zweig., *arXiv*, 2016.
+ * [End-to-end LSTM-based dialog control optimized with supervised and reinforcement learning](https://arxiv.org/pdf/1606.01269v1.pdf), Jason D. Williams and Geoffrey Zweig., *arXiv*, 2016.
 
 ## Memory Networks
 * [Dialog-based Language Learning](https://arxiv.org/pdf/1604.06045v4.pdf), Jason Weston, *arXiv*, 2016.
