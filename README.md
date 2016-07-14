@@ -30,7 +30,8 @@ Model for Generating Dialogues](https://arxiv.org/pdf/1605.06069v3.pdf), Iulian 
  * [Building End-To-End Dialogue Systems
 Using Generative Hierarchical Neural Network Models](https://arxiv.org/pdf/1507.04808.pdf), Iulian V. Serban et al., *AAAI*, 2015. (500 movies)
  * [Conversational Contextual Cues: The Case of Personalization and History for Response Ranking](https://arxiv.org/pdf/1606.00372v1.pdf), Rami Al-Rfou et al., *arXiv*, 2016. (Reddit comments)
-
+ * [The Ubuntu Dialogue Corpus: A Large Dataset for Research in Unstructured Multi-Turn Dialogue Systems](http://arxiv.org/pdf/1506.08909v3.pdf), Ryan Lowe et al., SIGDial 2015. [dataset](http://cs.mcgill.ca/~jpineau/datasets/ubuntu-corpus-1.0/)
+ 
 ## Reinforcement Learning
  * [Deep Reinforcement Learning for Dialogue Generation](https://arxiv.org/pdf/1606.01541.pdf), Jiwei Li et al., *arXiv*, 2016.
  * [End-to-end LSTM-based dialog control optimized with supervised and reinforcement learning](https://arxiv.org/pdf/1606.01269v1.pdf), Jason D. Williams and Geoffrey Zweig., *arXiv*, 2016.
