@@ -25,9 +25,9 @@ Model for Generating Dialogues](https://arxiv.org/pdf/1605.06069v3.pdf), Iulian 
 * [Conversational Contextual Cues: The Case of Personalization and History for Response Ranking](https://arxiv.org/pdf/1606.00372v1.pdf), Rami Al-Rfou et al., Google Inc, *arXiv*, 2016.
 * [Learning End-to-End Goal-Oriented Dialog](https://arxiv.org/pdf/1605.07683.pdf), Antoine Bordes and Jason Weston, Facebook AI Research, *arXiv*, 2016.
 * [Evaluating Prerequisite Qualities For Learning End-to-End Dialog Systems](http://arxiv.org/pdf/1511.06931v6.pdf), Jesse Dodge et al., Facebook AI Research, ICLR 2016.
-* [The Ubuntu Dialogue Corpus: A Large Dataset for Research in Unstructured Multi-Turn Dialogue Systems](http://arxiv.org/pdf/1506.08909v3.pdf), Ryan Lowe et al., *SIGDial* 2015. [[dataset](https://github.com/rkadlec/ubuntu-ranking-dataset-creator)]
+* [The Ubuntu Dialogue Corpus: A Large Dataset for Research in Unstructured Multi-Turn Dialogue Systems](http://arxiv.org/pdf/1506.08909v3.pdf), Ryan Lowe et al., *SIGDial*, 2015. [[dataset](https://github.com/rkadlec/ubuntu-ranking-dataset-creator)]
 * [How NOT To Evaluate Your Dialogue System: An Empirical Study of Unsupervised Evaluation Metrics for Dialogue Response Generation](https://arxiv.org/pdf/1603.08023v1.pdf), Chia-Wei Liu et al., *arXiv*, 2016.
- 
+* [A Survey of Available Corpora For Building Data-Driven Dialogue Systems](http://arxiv.org/pdf/1512.05742v2.pdf), Iulian Vlad Serban et al., *arXiv*, 2015.
 ## Dataset
  * [OpenSubtitles2016: Extracting Large Parallel Corpora from Movie and TV Subtitles](http://stp.lingfil.uu.se/~joerg/paper/opensubs2016.pdf), Pierre Lison et al. (3.36 million subtitles)
  * [Building End-To-End Dialogue Systems
