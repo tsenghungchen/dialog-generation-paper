@@ -40,6 +40,7 @@ Using Generative Hierarchical Neural Network Models](https://arxiv.org/pdf/1507.
  * [End-to-end LSTM-based dialog control optimized with supervised and reinforcement learning](https://arxiv.org/pdf/1606.01269v1.pdf), Jason D. Williams and Geoffrey Zweig., *arXiv*, 2016.
 
 ## Memory Networks
+* [Evaluating Prerequisite Qualities For Learning End-to-End Dialog Systems](http://arxiv.org/pdf/1511.06931v6.pdf), Jesse Dodge et al., Facebook AI Research, ICLR 2016.
 * [Dialog-based Language Learning](https://arxiv.org/pdf/1604.06045v4.pdf), Jason Weston, *arXiv*, 2016.
 * [Learning End-to-End Goal-Oriented Dialog](https://arxiv.org/pdf/1605.07683.pdf), Antoine Bordes and Jason Weston, *arXiv*, 2016.
 
