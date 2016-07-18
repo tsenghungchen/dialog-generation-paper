@@ -28,6 +28,9 @@ Model for Generating Dialogues](https://arxiv.org/pdf/1605.06069v3.pdf), Iulian 
 * [The Ubuntu Dialogue Corpus: A Large Dataset for Research in Unstructured Multi-Turn Dialogue Systems](http://arxiv.org/pdf/1506.08909v3.pdf), Ryan Lowe et al., *SIGDial*, 2015. [[dataset](https://github.com/rkadlec/ubuntu-ranking-dataset-creator)]
 * [How NOT To Evaluate Your Dialogue System: An Empirical Study of Unsupervised Evaluation Metrics for Dialogue Response Generation](https://arxiv.org/pdf/1603.08023v1.pdf), Chia-Wei Liu et al., *arXiv*, 2016.
 * [A Survey of Available Corpora For Building Data-Driven Dialogue Systems](http://arxiv.org/pdf/1512.05742v2.pdf), Iulian Vlad Serban et al., *arXiv*, 2015.
+* [Neural Responding Machine for Short-Text Conversation](https://arxiv.org/pdf/1503.02364v2.pdf), Lifeng Shang et al., *arXiv*, 2015.
+* [A Neural Conversational Model](https://arxiv.org/pdf/1506.05869.pdf), Oriol Vinyals et al., *arXiv*, 2015.
+* [A Neural Network Approach to Context-Sensitive Generation of Conversational Responses](http://arxiv.org/pdf/1506.06714v1.pdf), Alessandro Sordoni et al., *NAACL*, 2015.
 
 ## Dataset
  * [A Survey of Available Corpora For Building Data-Driven Dialogue Systems](http://arxiv.org/pdf/1512.05742v2.pdf), Iulian Vlad Serban et al., *arXiv*, 2015.
@@ -47,6 +50,9 @@ Using Generative Hierarchical Neural Network Models](https://arxiv.org/pdf/1507.
 * [Learning End-to-End Goal-Oriented Dialog](https://arxiv.org/pdf/1605.07683.pdf), Antoine Bordes and Jason Weston, *arXiv*, 2016.
 
 ## Recurrent Neural Networks
+* [Neural Responding Machine for Short-Text Conversation](https://arxiv.org/pdf/1503.02364v2.pdf), Lifeng Shang et al., *arXiv*, 2015.
+* [A Neural Conversational Model](https://arxiv.org/pdf/1506.05869.pdf), Oriol Vinyals et al., *arXiv*, 2015.
+* [A Neural Network Approach to Context-Sensitive Generation of Conversational Responses](http://arxiv.org/pdf/1506.06714v1.pdf), Alessandro Sordoni et al., *NAACL*, 2015.
 * [A Hierarchical Latent Variable Encoder-Decoder
 Model for Generating Dialogues](https://arxiv.org/pdf/1605.06069v3.pdf), Iulian V. Serban et al., *arXiv*, 2016.
 * [Multiresolution Recurrent Neural Networks: An Application to Dialogue Response Generation](https://arxiv.org/pdf/1606.00776v2.pdf), Iulian Vlad Serban et al., *arXiv*, 2016.
