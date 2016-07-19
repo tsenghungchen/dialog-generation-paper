@@ -31,6 +31,9 @@ Model for Generating Dialogues](https://arxiv.org/pdf/1605.06069v3.pdf), Iulian 
 * [Neural Responding Machine for Short-Text Conversation](https://arxiv.org/pdf/1503.02364v2.pdf), Lifeng Shang et al., *arXiv*, 2015.
 * [A Neural Conversational Model](https://arxiv.org/pdf/1506.05869.pdf), Oriol Vinyals et al., *arXiv*, 2015.
 * [A Neural Network Approach to Context-Sensitive Generation of Conversational Responses](http://arxiv.org/pdf/1506.06714v1.pdf), Alessandro Sordoni et al., *NAACL*, 2015.
+* [A Diversity-Promoting Objective Function for Neural Conversation Models](http://arxiv.org/pdf/1510.03055v3.pdf), Jiwei Li et al., *NAACL*, 2016. (Maximum Mutual Information)
+* [A Persona-Based Neural Conversation Model](http://arxiv.org/pdf/1603.06155v2.pdf), Jiwei Li et al., *ACL*, 2016.
+* [Neural Net Models for Open-Domain Discourse Coherence](https://arxiv.org/pdf/1606.01545.pdf), Jiwei Li et al., *arXiv*, 2016.
 
 ## Dataset
  * [A Survey of Available Corpora For Building Data-Driven Dialogue Systems](http://arxiv.org/pdf/1512.05742v2.pdf), Iulian Vlad Serban et al., *arXiv*, 2015.
