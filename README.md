@@ -34,6 +34,8 @@ Model for Generating Dialogues](https://arxiv.org/pdf/1605.06069v3.pdf), Iulian 
 * [A Diversity-Promoting Objective Function for Neural Conversation Models](http://arxiv.org/pdf/1510.03055v3.pdf), Jiwei Li et al., *NAACL*, 2016. (Maximum Mutual Information)
 * [A Persona-Based Neural Conversation Model](http://arxiv.org/pdf/1603.06155v2.pdf), Jiwei Li et al., *ACL*, 2016.
 * [Neural Net Models for Open-Domain Discourse Coherence](https://arxiv.org/pdf/1606.01545.pdf), Jiwei Li et al., *arXiv*, 2016.
+* [A Network-based End-to-End Trainable Task-oriented Dialogue System](http://arxiv.org/pdf/1604.04562v2.pdf), Tsung-Hsien Wen et al., *arXiv*, 2016.
+* [SimpleDS: A Simple Deep Reinforcement Learning Dialogue System](http://arxiv.org/pdf/1601.04574v1.pdf), Heriberto Cuayahuitl, *arXiv*, 2016.
 
 ## Dataset
  * [A Survey of Available Corpora For Building Data-Driven Dialogue Systems](http://arxiv.org/pdf/1512.05742v2.pdf), Iulian Vlad Serban et al., *arXiv*, 2015.
@@ -46,7 +48,8 @@ Using Generative Hierarchical Neural Network Models](https://arxiv.org/pdf/1507.
 ## Reinforcement Learning
  * [Deep Reinforcement Learning for Dialogue Generation](https://arxiv.org/pdf/1606.01541.pdf), Jiwei Li et al., *arXiv*, 2016.
  * [End-to-end LSTM-based dialog control optimized with supervised and reinforcement learning](https://arxiv.org/pdf/1606.01269v1.pdf), Jason D. Williams and Geoffrey Zweig., *arXiv*, 2016.
-
+ * [A Network-based End-to-End Trainable Task-oriented Dialogue System](http://arxiv.org/pdf/1604.04562v2.pdf), Tsung-Hsien Wen et al., *arXiv*, 2016.
+ * [SimpleDS: A Simple Deep Reinforcement Learning Dialogue System](http://arxiv.org/pdf/1601.04574v1.pdf), Heriberto Cuayahuitl, *arXiv*, 2016.
 ## Memory Networks
 * [Evaluating Prerequisite Qualities For Learning End-to-End Dialog Systems](http://arxiv.org/pdf/1511.06931v6.pdf), Jesse Dodge et al., Facebook AI Research, ICLR 2016.
 * [Dialog-based Language Learning](https://arxiv.org/pdf/1604.06045v4.pdf), Jason Weston, *arXiv*, 2016.
