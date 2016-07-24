@@ -36,6 +36,7 @@ Model for Generating Dialogues](https://arxiv.org/pdf/1605.06069v3.pdf), Iulian 
 * [Neural Net Models for Open-Domain Discourse Coherence](https://arxiv.org/pdf/1606.01545.pdf), Jiwei Li et al., *arXiv*, 2016.
 * [A Network-based End-to-End Trainable Task-oriented Dialogue System](http://arxiv.org/pdf/1604.04562v2.pdf), Tsung-Hsien Wen et al., *arXiv*, 2016.
 * [SimpleDS: A Simple Deep Reinforcement Learning Dialogue System](http://arxiv.org/pdf/1601.04574v1.pdf), Heriberto Cuayahuitl, *arXiv*, 2016.
+* [End-To-End Generative Dialogue](https://github.com/michaelfarrell76/End-To-End-Generative-Dialogue/blob/master/paper/main.pdf), Colton Gyulay et al. [[code](https://github.com/michaelfarrell76/End-To-End-Generative-Dialogue)]
 
 ## Dataset
  * [A Survey of Available Corpora For Building Data-Driven Dialogue Systems](http://arxiv.org/pdf/1512.05742v2.pdf), Iulian Vlad Serban et al., *arXiv*, 2015.
