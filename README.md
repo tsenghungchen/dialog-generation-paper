@@ -10,6 +10,7 @@ Any suggestions and pull requests are welcome.
   * Memory networks
   * Recurrent Neural Networks
   * Evaluation metrics
+  * Domain Adaptation
 
 ## All Papers
 * [OpenSubtitles2016: Extracting Large Parallel Corpora from Movie and TV Subtitles](http://stp.lingfil.uu.se/~joerg/paper/opensubs2016.pdf), Pierre Lison et al., 2016 (3.36 million subtitles)
@@ -69,3 +70,9 @@ Model for Generating Dialogues](https://arxiv.org/pdf/1605.06069v3.pdf), Iulian 
 
 ## Evaluation metrics
 * [How NOT To Evaluate Your Dialogue System: An Empirical Study of Unsupervised Evaluation Metrics for Dialogue Response Generation](https://arxiv.org/pdf/1603.08023v1.pdf), Chia-Wei Liu et al., *arXiv*, 2016.
+
+## Domain Adaptation
+* [Multi-domain Neural Network Language Generation for Spoken Dialogue Systems](http://mi.eng.cam.ac.uk/~sjy/papers/wgmr16.pdf), Tsung-Hsien Wen et al.
+* [Domain Adaptation with Unlabeled Data for Dialog Act Tagging](http://ttic.uchicago.edu/~klivescu/papers/margolis_etal_danlp2010.pdf), Anna Margolis et al.
+* [Learning Domain-Independent Dialogue Policies via Ontology Parameterisation](http://mi.eng.cam.ac.uk/~sjy/papers/wsws15.pdf), Zhuoran Wang et al.
+
