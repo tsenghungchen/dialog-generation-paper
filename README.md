@@ -4,14 +4,15 @@ The papers are organized based on manually-defined bookmarks. <br>
 Any suggestions and pull requests are welcome. 
 
 # Bookmarks
-  * All Papers
-  * Dataset
-  * Reinforcement Learning
-  * Memory networks
-  * Recurrent Neural Networks
-  * Evaluation metrics
-  * Domain Adaptation
-
+  * [All Papers](#all-papers)
+  * [Dataset](#dataset)
+  * [Reinforcement Learning](#reinforcement-learning)
+  * [Memory networks](#memory-networks)
+  * [Recurrent Neural Networks](#recurrent-neural-networks)
+  * [Evaluation metrics](#evaluation-metrics)
+  * [Domain Adaptation](#domain-adaptation)
+  * [Variational Autoencoders](#variational-autoencoders)
+  
 ## All Papers
 * [OpenSubtitles2016: Extracting Large Parallel Corpora from Movie and TV Subtitles](http://stp.lingfil.uu.se/~joerg/paper/opensubs2016.pdf), Pierre Lison et al., 2016 (3.36 million subtitles)
 * [Building End-To-End Dialogue Systems
@@ -38,6 +39,8 @@ Model for Generating Dialogues](https://arxiv.org/pdf/1605.06069v3.pdf), Iulian 
 * [A Network-based End-to-End Trainable Task-oriented Dialogue System](http://arxiv.org/pdf/1604.04562v2.pdf), Tsung-Hsien Wen et al., *arXiv*, 2016.
 * [SimpleDS: A Simple Deep Reinforcement Learning Dialogue System](http://arxiv.org/pdf/1601.04574v1.pdf), Heriberto Cuayahuitl, *arXiv*, 2016.
 * [End-To-End Generative Dialogue](https://github.com/michaelfarrell76/End-To-End-Generative-Dialogue/blob/master/paper/main.pdf), Colton Gyulay et al. [[code](https://github.com/michaelfarrell76/End-To-End-Generative-Dialogue)]
+* [A Conditional Variational Framework for Dialog Generation](https://arxiv.org/pdf/1705.00316.pdf), Xiaoyu Shen, *arXiv*, 2017.
+* [Towards Interpretable Chit-chat: Open Domain Dialogue Generation with Dialogue Acts](https://openreview.net/pdf?id=Bym0cU1CZ), 2017.
 
 ## Dataset
  * [A Survey of Available Corpora For Building Data-Driven Dialogue Systems](http://arxiv.org/pdf/1512.05742v2.pdf), Iulian Vlad Serban et al., *arXiv*, 2015.
@@ -52,6 +55,7 @@ Using Generative Hierarchical Neural Network Models](https://arxiv.org/pdf/1507.
 * [End-to-end LSTM-based dialog control optimized with supervised and reinforcement learning](https://arxiv.org/pdf/1606.01269v1.pdf), Jason D. Williams and Geoffrey Zweig., *arXiv*, 2016.
 * [A Network-based End-to-End Trainable Task-oriented Dialogue System](http://arxiv.org/pdf/1604.04562v2.pdf), Tsung-Hsien Wen et al., *arXiv*, 2016.
 * [SimpleDS: A Simple Deep Reinforcement Learning Dialogue System](http://arxiv.org/pdf/1601.04574v1.pdf), Heriberto Cuayahuitl, *arXiv*, 2016.
+* [Towards Interpretable Chit-chat: Open Domain Dialogue Generation with Dialogue Acts](https://openreview.net/pdf?id=Bym0cU1CZ), 2017.
 
 ## Memory Networks
 * [Evaluating Prerequisite Qualities For Learning End-to-End Dialog Systems](http://arxiv.org/pdf/1511.06931v6.pdf), Jesse Dodge et al., Facebook AI Research, ICLR 2016.
@@ -76,3 +80,5 @@ Model for Generating Dialogues](https://arxiv.org/pdf/1605.06069v3.pdf), Iulian 
 * [Domain Adaptation with Unlabeled Data for Dialog Act Tagging](http://ttic.uchicago.edu/~klivescu/papers/margolis_etal_danlp2010.pdf), Anna Margolis et al.
 * [Learning Domain-Independent Dialogue Policies via Ontology Parameterisation](http://mi.eng.cam.ac.uk/~sjy/papers/wsws15.pdf), Zhuoran Wang et al.
 
+## Variational Autoencoders
+* [A Conditional Variational Framework for Dialog Generation](https://arxiv.org/pdf/1705.00316.pdf), Xiaoyu Shen, *arXiv*, 2017.
