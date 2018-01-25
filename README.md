@@ -41,6 +41,9 @@ Model for Generating Dialogues](https://arxiv.org/pdf/1605.06069v3.pdf), Iulian 
 * [End-To-End Generative Dialogue](https://github.com/michaelfarrell76/End-To-End-Generative-Dialogue/blob/master/paper/main.pdf), Colton Gyulay et al. [[code](https://github.com/michaelfarrell76/End-To-End-Generative-Dialogue)]
 * [A Conditional Variational Framework for Dialog Generation](https://arxiv.org/pdf/1705.00316.pdf), Xiaoyu Shen, *arXiv*, 2017.
 * [Towards Interpretable Chit-chat: Open Domain Dialogue Generation with Dialogue Acts](https://openreview.net/pdf?id=Bym0cU1CZ), 2017.
+* [Frames: A Corpus for Adding Memory
+to Goal-Oriented Dialogue Systems
+](http://www.aclweb.org/anthology/W17-5526), Layla El Asri et al., Microsoft Maluuba. SIGDial 2017. [[dataset](http://datasets.maluuba.com/Frames)]
 
 ## Dataset
  * [A Survey of Available Corpora For Building Data-Driven Dialogue Systems](http://arxiv.org/pdf/1512.05742v2.pdf), Iulian Vlad Serban et al., *arXiv*, 2015.
@@ -49,7 +52,12 @@ Model for Generating Dialogues](https://arxiv.org/pdf/1605.06069v3.pdf), Iulian 
 Using Generative Hierarchical Neural Network Models](https://arxiv.org/pdf/1507.04808.pdf), Iulian V. Serban et al., *AAAI*, 2015. (500 movies)
  * [Conversational Contextual Cues: The Case of Personalization and History for Response Ranking](https://arxiv.org/pdf/1606.00372v1.pdf), Rami Al-Rfou et al., *arXiv*, 2016. (Reddit comments)
  * [The Ubuntu Dialogue Corpus: A Large Dataset for Research in Unstructured Multi-Turn Dialogue Systems](http://arxiv.org/pdf/1506.08909v3.pdf), Ryan Lowe et al., SIGDial 2015. [[dataset](https://github.com/rkadlec/ubuntu-ranking-dataset-creator)]
- 
+ * [Frames: A Corpus for Adding Memory
+to Goal-Oriented Dialogue Systems
+](http://www.aclweb.org/anthology/W17-5526), Layla El Asri et al., Microsoft Maluuba. SIGDial 2017. [[dataset](http://datasets.maluuba.com/Frames)]
+ * [Relevance of Unsupervised Metrics in Task-Oriented Dialogue for
+Evaluating Natural Language Generation](https://arxiv.org/pdf/1706.09799.pdf), Shikhar Sharma et al., Microsoft Maluuba. *arXiv* 2017. [[code](https://github.com/Maluuba/nlg-eval)]
+
 ## Reinforcement Learning
 * [Deep Reinforcement Learning for Dialogue Generation](https://arxiv.org/pdf/1606.01541.pdf), Jiwei Li et al., *arXiv*, 2016.
 * [End-to-end LSTM-based dialog control optimized with supervised and reinforcement learning](https://arxiv.org/pdf/1606.01269v1.pdf), Jason D. Williams and Geoffrey Zweig., *arXiv*, 2016.
@@ -74,6 +82,8 @@ Model for Generating Dialogues](https://arxiv.org/pdf/1605.06069v3.pdf), Iulian 
 
 ## Evaluation metrics
 * [How NOT To Evaluate Your Dialogue System: An Empirical Study of Unsupervised Evaluation Metrics for Dialogue Response Generation](https://arxiv.org/pdf/1603.08023v1.pdf), Chia-Wei Liu et al., *arXiv*, 2016.
+ * [Relevance of Unsupervised Metrics in Task-Oriented Dialogue for
+Evaluating Natural Language Generation](https://arxiv.org/pdf/1706.09799.pdf), Shikhar Sharma et al., Microsoft Maluuba. *arXiv* 2017. [[code](https://github.com/Maluuba/nlg-eval)]
 
 ## Domain Adaptation
 * [Multi-domain Neural Network Language Generation for Spoken Dialogue Systems](http://mi.eng.cam.ac.uk/~sjy/papers/wgmr16.pdf), Tsung-Hsien Wen et al.
