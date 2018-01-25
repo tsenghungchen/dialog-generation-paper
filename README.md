@@ -9,8 +9,8 @@ Any suggestions and pull requests are welcome.
   * [Reinforcement Learning](#reinforcement-learning)
   * [Memory networks](#memory-networks)
   * [Recurrent Neural Networks](#recurrent-neural-networks)
-  * [Evaluation metrics](#evaluation-metrics)
-  * [Domain Adaptation](#domain-adaptation)
+  * [Evaluation metrics](#evaluation-metrics)
+  * [Domain Adaptation](#domain-adaptation)
   * [Variational Autoencoders](#variational-autoencoders)
   
 ## All Papers
