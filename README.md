@@ -44,6 +44,8 @@ Model for Generating Dialogues](https://arxiv.org/pdf/1605.06069v3.pdf), Iulian 
 * [Frames: A Corpus for Adding Memory
 to Goal-Oriented Dialogue Systems
 ](http://www.aclweb.org/anthology/W17-5526), Layla El Asri et al., Microsoft Maluuba. SIGDial 2017. [[dataset](http://datasets.maluuba.com/Frames)]
+ * [Relevance of Unsupervised Metrics in Task-Oriented Dialogue for
+Evaluating Natural Language Generation](https://arxiv.org/pdf/1706.09799.pdf), Shikhar Sharma et al., Microsoft Maluuba. *arXiv* 2017. [[code](https://github.com/Maluuba/nlg-eval)]
 
 ## Dataset
  * [A Survey of Available Corpora For Building Data-Driven Dialogue Systems](http://arxiv.org/pdf/1512.05742v2.pdf), Iulian Vlad Serban et al., *arXiv*, 2015.
@@ -55,8 +57,6 @@ Using Generative Hierarchical Neural Network Models](https://arxiv.org/pdf/1507.
  * [Frames: A Corpus for Adding Memory
 to Goal-Oriented Dialogue Systems
 ](http://www.aclweb.org/anthology/W17-5526), Layla El Asri et al., Microsoft Maluuba. SIGDial 2017. [[dataset](http://datasets.maluuba.com/Frames)]
- * [Relevance of Unsupervised Metrics in Task-Oriented Dialogue for
-Evaluating Natural Language Generation](https://arxiv.org/pdf/1706.09799.pdf), Shikhar Sharma et al., Microsoft Maluuba. *arXiv* 2017. [[code](https://github.com/Maluuba/nlg-eval)]
 
 ## Reinforcement Learning
 * [Deep Reinforcement Learning for Dialogue Generation](https://arxiv.org/pdf/1606.01541.pdf), Jiwei Li et al., *arXiv*, 2016.
