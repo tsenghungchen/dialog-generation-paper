@@ -1,7 +1,7 @@
 # Dialogue Generation Papers
 A list of recent papers regarding dialog generation. <br>
 The papers are organized based on manually-defined bookmarks. <br>
-Any suggestions and pull requests are welcome. 
+Any suggestions and pull requests are welcome.
 
 # Bookmarks
   * [All Papers](#all-papers)
@@ -12,7 +12,7 @@ Any suggestions and pull requests are welcome.
   * [Evaluation metrics](#evaluation-metrics)
   * [Domain Adaptation](#domain-adaptation)
   * [Variational Autoencoders](#variational-autoencoders)
-  
+
 ## All Papers
 * [OpenSubtitles2016: Extracting Large Parallel Corpora from Movie and TV Subtitles](http://stp.lingfil.uu.se/~joerg/paper/opensubs2016.pdf), Pierre Lison et al., 2016 (3.36 million subtitles)
 * [Building End-To-End Dialogue Systems
@@ -64,6 +64,7 @@ to Goal-Oriented Dialogue Systems
 * [A Network-based End-to-End Trainable Task-oriented Dialogue System](http://arxiv.org/pdf/1604.04562v2.pdf), Tsung-Hsien Wen et al., *arXiv*, 2016.
 * [SimpleDS: A Simple Deep Reinforcement Learning Dialogue System](http://arxiv.org/pdf/1601.04574v1.pdf), Heriberto Cuayahuitl, *arXiv*, 2016.
 * [Towards Interpretable Chit-chat: Open Domain Dialogue Generation with Dialogue Acts](https://openreview.net/pdf?id=Bym0cU1CZ), 2017.
+* [End-to-End Task-Completion Neural Dialogue Systems](https://arxiv.org/pdf/1703.01008.pdf), Xiujun Li et al., *arXiv*, 2018.
 
 ## Memory Networks
 * [Evaluating Prerequisite Qualities For Learning End-to-End Dialog Systems](http://arxiv.org/pdf/1511.06931v6.pdf), Jesse Dodge et al., Facebook AI Research, ICLR 2016.
